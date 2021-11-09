@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenBasedAuth", "TokenBasedAuth\TokenBasedAuth.csproj", "{F81FE8E3-D301-4AE6-952D-F3FC1BF5AE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWINTest", "OWINTest\OWINTest.csproj", "{D0A3B527-7A49-427C-B985-84729A3E8188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81FE8E3-D301-4AE6-952D-F3FC1BF5AE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81FE8E3-D301-4AE6-952D-F3FC1BF5AE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81FE8E3-D301-4AE6-952D-F3FC1BF5AE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81FE8E3-D301-4AE6-952D-F3FC1BF5AE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A3B527-7A49-427C-B985-84729A3E8188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A3B527-7A49-427C-B985-84729A3E8188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A3B527-7A49-427C-B985-84729A3E8188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A3B527-7A49-427C-B985-84729A3E8188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CBD291C-C5A6-4A73-ACF6-A025C8550BF0}
+	EndGlobalSection
+EndGlobal
